@@ -18,13 +18,17 @@ Assuming that NodeJS is installed on the machine, run the command:
 
 ![image](https://user-images.githubusercontent.com/97900313/183875042-7db10097-71c1-419d-85a6-e85960b1073b.png)
 
-* Item by ID
+* Item by ID (Update and Delete)
 
-![image](https://user-images.githubusercontent.com/97900313/183876258-285e64e8-1c04-450f-bc2d-37ce1e7c921b.png)
+![image](https://user-images.githubusercontent.com/97900313/185724264-694b1b7b-c7f4-42bd-a6ca-c7224198bd0f.png)
 
 * Register new item
 
-![image](https://user-images.githubusercontent.com/97900313/183876560-b93b397a-5485-45b2-8896-4f39e0bdc929.png)
+![image](https://user-images.githubusercontent.com/97900313/185724297-dd33f4a3-09be-4add-9204-0420ad7f042c.png)
+
+* Edit item
+
+![image](https://user-images.githubusercontent.com/97900313/185724317-1f50f8b8-ede5-41ff-9971-91d12489eb48.png)
 
 ## Project developed with the technologies:
 
