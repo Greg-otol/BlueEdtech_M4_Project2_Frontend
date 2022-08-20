@@ -1,0 +1,51 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.Details {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  margin: 5rem 2rem 5rem 2rem;
+  border: 1px solid #0098DA31;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.Details h1 {
+  font-family: "Camphor Pro", sans-serif;
+  padding: 1rem;
+}
+
+.Details h2 {
+  font-family: "Camphor Pro", sans-serif;
+  font-size: 2rem;
+}
+
+.detail-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.btns button {
+  font-family: "Camphor Pro", sans-serif;
+  font-size: 1rem;
+  padding: 10px 50px;
+  color: #0099da;
+  background-color: whitesmoke;
+  border: 1px solid #0099da;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 1rem;
+}
+.btns button:hover {
+  background-color: #0099da;
+  color: whitesmoke;
+}
+#edit, #delete {
+  width: 160px;
+}
